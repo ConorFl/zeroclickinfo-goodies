@@ -21,12 +21,3 @@ handle remainder => sub {
 };
 
 1;
-# switch ($loc->country_code){
-# 	case {return }
-# 	case {return }
-# 	case {return }
-# 	case {return }
-# 	case {return }
-# 	case {return }
-# 	case {return }
-# }
